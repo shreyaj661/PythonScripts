@@ -1,4 +1,5 @@
 import json
+import psychopy
 if __name__ == '__main__':
     try:
         with open('input.json', 'r') as f:
